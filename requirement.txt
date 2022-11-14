@@ -1,0 +1,9 @@
+tk
+sys
+os
+pillow
+numpy==1.21.6
+xlsxwriter
+pyqrcode
+openpyxl
+python-csv==0.0.13
